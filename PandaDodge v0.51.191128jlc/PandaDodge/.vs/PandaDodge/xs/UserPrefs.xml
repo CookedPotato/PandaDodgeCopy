@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{9E3483C9-AE8F-E147-914A-14347F7556C0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/Recipe2Display.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/Player.cs" Line="175" Column="14" />
+      <File FileName="Assets/Resources/Scripts/Save.cs" Line="10" Column="31" />
+      <File FileName="Assets/Resources/Scripts/Background.cs" />
+      <File FileName="Assets/Resources/Scripts/LevelControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/RecipeDisplay.cs" Line="10" Column="5" />
+      <File FileName="Assets/Resources/Scripts/Recipe2Display.cs" Line="16" Column="1" />
+      <File FileName="Assets/Resources/Scripts/NewFile.txt" Line="18" Column="9" />
+      <File FileName="Assets/Resources/Scripts/NewClass.cs" Line="6" Column="1" />
+      <File FileName="Assets/Resources/Scripts/NewClass.cs" Line="15" Column="32" />
+      <File FileName="Assets/Resources/Scripts/CraftControl.cs" Line="172" Column="1" />
+      <File FileName="Assets/Resources/Scripts/SceneSwitcher.cs" Line="58" Column="38" />
+      <File FileName="Assets/Resources/Scripts/Collections.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PandaDodge" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Recipe2Display.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="44718549-2b26-4ec9-95fe-5eabb90df7cb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
